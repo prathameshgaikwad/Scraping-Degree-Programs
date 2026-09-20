@@ -1,9 +1,20 @@
 import scrapy
 
 
-class texas_spidy(scrapy.Spider):
-    name = 'texas-spidy'
-    start_urls = ['https://www.mastersportal.com/search/master?kw-where=texas']
+class mastersportal_spidy(scrapy.Spider):
+    """Crawls a list of mastersportal.com search URLs, one after another.
+
+    URLs come from the MASTERSPORTAL_SEARCH_URLS setting so new searches
+    (keywords, locations, filters) can be added without touching code.
+    CONCURRENT_REQUESTS_PER_DOMAIN=1 in settings.py keeps this and every
+    other mastersportal.com request serialized against the same rate limit.
+    """
+
+    name = 'mastersportal-spidy'
+
+    async def start(self):
+        for url in self.settings.getlist('MASTERSPORTAL_SEARCH_URLS'):
+            yield scrapy.Request(url, callback=self.parse)
 
     def parse(self, response):
         for card in response.css('section.Card.ProgrammeCard'):
@@ -17,12 +28,17 @@ class texas_spidy(scrapy.Spider):
                 'city': city.strip() or None,
                 'fee': card.css('span.CurrentPrice b::text').get(default='').strip() or None,
                 'program_duration': card.css('span.Duration::text').get(default='').strip() or None,
+                'source_search_url': response.url,
             }
             detail_url = card.css('a.VisitProgramme::attr(href)').get()
             if detail_url:
                 yield response.follow(detail_url, callback=self.parse_detail, meta={'item': item})
             else:
                 yield item
+
+        next_page = response.css('nav.Pagination a[name="next"]::attr(href)').get()
+        if next_page:
+            yield response.follow(next_page, callback=self.parse)
 
     def parse_detail(self, response):
         item = response.meta['item']
