@@ -1,0 +1,52 @@
+{
+  "applicant": {
+    "applicant_id": "dev-applicant",
+    "name": null,
+    "education": {
+      "degree": "B.Tech",
+      "field": "Metallurgy",
+      "institution": "COEP",
+      "country": "India",
+      "cgpa": 7.67,
+      "cgpa_scale": null
+    },
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "years": 2,
+        "field": "Software Engineering",
+        "domain": "FinTech"
+      }
+    ],
+    "target_fields": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Science",
+      "Data Science"
+    ],
+    "technical_background": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "AWS",
+      "REST APIs",
+      "Microservices"
+    ],
+    "preferences": {
+      "english_taught": true,
+      "full_time": true,
+      "preferred_countries": [],
+      "excluded_countries": [],
+      "maximum_tuition": null,
+      "maximum_tuition_currency": null,
+      "maximum_duration_months": null,
+      "scholarship_required": false
+    },
+    "testing": {
+      "ielts": null,
+      "toefl": null,
+      "gre": null
+    },
+    "coursework": []
+  }
+}

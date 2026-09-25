@@ -1,0 +1,19 @@
+{
+  "name": "programmatch-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ProgramMatch — React frontend for the Master's Program Intelligence engine (live, backend-driven)",
+  "scripts": {
+    "build": "vite build",
+    "build:serve": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}

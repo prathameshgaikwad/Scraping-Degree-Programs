@@ -1,0 +1,112 @@
+[
+  {
+    "program_name": "Data Engineering and Analytics",
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "degree_type": "MSc",
+    "university_domain": "tum.de",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc",
+    "qs_rank": 28
+  },
+  {
+    "program_name": "Informatics",
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "degree_type": "MSc",
+    "university_domain": "tum.de",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc",
+    "qs_rank": 28
+  },
+  {
+    "program_name": "Computer Science",
+    "university": "ETH Zurich",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "degree_type": "MSc",
+    "university_domain": "ethz.ch",
+    "program_url": "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html",
+    "qs_rank": 7
+  },
+  {
+    "program_name": "Artificial Intelligence",
+    "university": "University of Edinburgh",
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "degree_type": "MSc",
+    "university_domain": "ed.ac.uk",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2026&id=107",
+    "qs_rank": 27
+  },
+  {
+    "program_name": "Computing Science",
+    "university": "University of Glasgow",
+    "country": "United Kingdom",
+    "city": "Glasgow",
+    "degree_type": "MSc",
+    "university_domain": "gla.ac.uk",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/computingscience/",
+    "qs_rank": 78
+  },
+  {
+    "program_name": "Machine Learning",
+    "university": "University College London",
+    "country": "United Kingdom",
+    "city": "London",
+    "degree_type": "MSc",
+    "university_domain": "ucl.ac.uk",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc",
+    "qs_rank": 9
+  },
+  {
+    "program_name": "Applied Computing",
+    "university": "University of Toronto",
+    "country": "Canada",
+    "city": "Toronto",
+    "degree_type": "MSc",
+    "university_domain": "utoronto.ca",
+    "program_url": "https://www.sgs.utoronto.ca/programs/applied-computing/",
+    "qs_rank": 25
+  },
+  {
+    "program_name": "Artificial Intelligence",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "city": "Utrecht",
+    "degree_type": "MSc",
+    "university_domain": "uu.nl",
+    "program_url": "https://www.uu.nl/masters/en/artificial-intelligence",
+    "qs_rank": 105
+  },
+  {
+    "program_name": "Master of Artificial Intelligence",
+    "university": "KU Leuven",
+    "country": "Belgium",
+    "city": "Leuven",
+    "degree_type": "MSc",
+    "university_domain": "kuleuven.be",
+    "program_url": "https://www.kuleuven.be/programmes/master-artificial-intelligence",
+    "qs_rank": 63
+  },
+  {
+    "program_name": "Artificial Intelligence",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "degree_type": "MSc",
+    "university_domain": "uva.nl",
+    "program_url": "https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html",
+    "qs_rank": 53
+  },
+  {
+    "program_name": "Master of Science in Artificial Intelligence",
+    "university": "Nanyang Technological University",
+    "country": "Singapore",
+    "city": "Singapore",
+    "degree_type": "MSc",
+    "university_domain": "ntu.edu.sg",
+    "program_url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-artificial-intelligence",
+    "qs_rank": 15
+  }
+]

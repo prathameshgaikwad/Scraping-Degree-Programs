@@ -1,0 +1,54 @@
+# Example applicant profile (development/test subject).
+# The matching engine reads this file; it is never hardcoded in code.
+applicant:
+  applicant_id: dev-applicant
+  name: null
+
+  education:
+    degree: "B.Tech"
+    field: "Metallurgy"
+    institution: "COEP"
+    country: "India"
+    cgpa: 7.67
+    # cgpa_scale intentionally omitted: the system must not assume a scale.
+    cgpa_scale: null
+
+  experience:
+    - title: "Software Engineer"
+      years: 2
+      field: "Software Engineering"
+      domain: "FinTech"
+
+  target_fields:
+    - "Artificial Intelligence"
+    - "Machine Learning"
+    - "Computer Science"
+    - "Data Science"
+
+  technical_background:
+    - Java
+    - Spring Boot
+    - SQL
+    - AWS
+    - REST APIs
+    - Microservices
+
+  # Preferences are optional; null/empty means "not specified".
+  preferences:
+    english_taught: true
+    full_time: true
+    preferred_countries: []
+    excluded_countries: []
+    maximum_tuition: null
+    maximum_tuition_currency: null
+    maximum_duration_months: null
+    scholarship_required: false
+
+  # Test scores are unknown until the applicant supplies them.
+  testing:
+    ielts: null
+    toefl: null
+    gre: null
+
+  # Coursework is only populated from an actual transcript. Never invented.
+  coursework: []

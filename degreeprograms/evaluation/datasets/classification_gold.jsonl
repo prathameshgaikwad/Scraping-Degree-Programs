@@ -1,0 +1,93 @@
+{"name": "MSc Machine Learning, Data Science & Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Master of Science in Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Master of Artificial Intelligence and Machine Learning", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc Applied Machine Learning", "expected_primary": "MACHINE_LEARNING", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc Robotics and Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc in Data Science", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Master of Data Science", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc Business Data Analytics", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MS in Business Analytics & Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Msc in Computer Science (Artificial Intelligence)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Cognitive Science and Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Geospatial Artificial Intelligence MSc", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "MSc Embedded Computing and Machine Learning", "expected_primary": "MACHINE_LEARNING", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MRes Machine Learning and Big Data in the Physical Sciences", "expected_primary": "MACHINE_LEARNING", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "M.Sc. Applied Artificial Intelligence and Computer Vision", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc Robotics", "expected_primary": "ROBOTICS", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Robotics and Intelligent Systems (MSc)", "expected_primary": "ROBOTICS", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Master of Science in Intelligent Technology", "expected_primary": "INTELLIGENT_SYSTEMS", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Computer Science With Speech and Natural Language Processing MSc", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Master of Science in Data Science (Computational Linguistics)", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Image processing", "expected_primary": "COMPUTER_VISION", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Informatics and Control in Technical Systems", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Computational Science", "expected_primary": "COMPUTATIONAL_SCIENCE", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Master of Computer Applications (Industry Oriented Specialization in Artificial Intelligence & Machine Learning)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "MSc Data Science - ICT Innovation (EIT Digital Master School)", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Data Analytics for Business and Society", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "M.Sc. DevOps and Cloud Computing", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Software engineering", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Master in AI and Health Informatics (MAIHI)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Master of Mathematical Sciences specialising in Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Department of Computer Science | MSc Scientific Computing and Data Analysis (Artificial Intelligence for Engineering)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "Master of Information Technology (Applied Artificial Intelligence)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "MCA (Artificial Intelligence & Machine Learning)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "MSc of Computer Information Systems - Health Informatics", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Graduate Certificate in Business (Digital Transformation)", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Master of Technology in Technology Innovation Management", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Master of Science (MSc) in Materials and Nanotechnology (Materials Technology)", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Master of Science in Materials Science and Engineering", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Physics of Materials", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Quantum Science and Technology, M.S.", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Master of Civil Engineering - Pavement and Materials Option", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "MSc Chemistry and Materials Science", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Master of Science - Materials Engineering", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Quantum Physics for Advanced Materials Engineering", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Artificial Intelligence MRes", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Artificial Intelligence MSc", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Computer Science with Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Computer Science with Data Science", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Data Science MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Data Science with Health MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Data Science with Statistics MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Advanced Engineering Management (Artificial Intelligence (AI) and Automation) MSc", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "Applications of Data Science MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Applied AI and Data Science MSc", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Applied Artificial Intelligence", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Applied Artificial Intelligence (7M06108)", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Applied Data Science (Online Learning) MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "obvious"}
+{"name": "Actuarial Science with Data Analytics MSc, PGDip", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Applied Data Analytics (7M06103)", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Applied Informatics", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Artificial Intelligence and Autonomous Systems MSc", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Artificial Intelligence and Data Analytics", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Big data Management and Analytics", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Computational Material and Modeling (MX)", "expected_primary": "COMPUTATIONAL_SCIENCE", "expected_relevance": "LOW", "category": "borderline"}
+{"name": "Computational Mathematics", "expected_primary": "COMPUTATIONAL_SCIENCE", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Computer Linguistics (2 years)", "expected_primary": "COMPUTER_SCIENCE", "expected_relevance": "MEDIUM", "category": "borderline"}
+{"name": "Computer Science and Intelligent Systems: Artificial Intelligence and Data Analysis", "expected_primary": "ARTIFICIAL_INTELLIGENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "Cyber Security and Data Analytics", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Data Analytics", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "Data Analytics (MS)", "expected_primary": "DATA_ANALYTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "ANALYTICAL CHEMISTRY", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "APPLIED CHEMISTRY", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Functional Materials MSc", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Materials Analysis", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Materials Science", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Materials Science (Energy Storage) MSc", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Materials Science and Engineering MSc", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Mechanical Engineering with Materials (Taught)", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Metallic Materials and Engineering", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Advanced Metallurgy MMet", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Analytical Chemistry", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Applied Physics", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Applied Physics and Materials, MSc by Research", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Archaeological Materials Science (EM)", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "Cognitive Neuroimaging and Data Science MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Data Science (Geospatial) MSc, PGDip", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Data Science and Digital Humanities MSc", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "Department of Natural Sciences | Master of Data Science in Digital Humanities", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "Digital Humanities MA", "expected_primary": "UNKNOWN", "expected_relevance": "NONE", "category": "irrelevant"}
+{"name": "MSc in Robotics and Autonomous Systems", "expected_primary": "ROBOTICS", "expected_relevance": "HIGH", "category": "borderline"}
+{"name": "MSc in Robotics and Autonomous Systems (15 months including three-month placement)", "expected_primary": "ROBOTICS", "expected_relevance": "HIGH", "category": "unusual"}
+{"name": "(Zhuhai, UIC campus) Master of Science (MSc) in Data Science with Concentration in Business Statistics", "expected_primary": "DATA_SCIENCE", "expected_relevance": "HIGH", "category": "complicated"}
+{"name": "BS-MS Dual Degree Programme in Computational and Data Sciences", "expected_primary": "COMPUTATIONAL_SCIENCE", "expected_relevance": "LOW", "category": "unusual"}

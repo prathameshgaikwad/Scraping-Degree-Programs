@@ -1,0 +1,28 @@
+{
+  "name": "scraping-degree-programs",
+  "version": "1.0.0",
+  "description": "A **Python [Scrapy](https://scrapy.org/) web scraper** that collects **master's degree program listings** from [MastersPortal](https://www.mastersportal.com/) and exports structured JSON for research, comparison, and education-data workflows.",
+  "main": "index.js",
+  "scripts": {
+    "build:ui": "npm --prefix frontend run build:serve",
+    "start": "npm run build:ui && python -m degreeprograms.cli serve",
+    "serve": "python -m degreeprograms.cli serve",
+    "postinstall": "npm --prefix frontend install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathameshgaikwad/Scraping-Degree-Programs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prathameshgaikwad/Scraping-Degree-Programs/issues"
+  },
+  "homepage": "https://github.com/prathameshgaikwad/Scraping-Degree-Programs#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
